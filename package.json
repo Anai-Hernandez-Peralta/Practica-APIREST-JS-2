@@ -1,0 +1,22 @@
+{
+  "name": "practica-apirest-js-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anai-Hernandez-Peralta/Practica-APIREST-JS-2.git"
+  },
+  "keywords": [
+    "Anai"
+  ],
+  "author": "Anai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anai-Hernandez-Peralta/Practica-APIREST-JS-2/issues"
+  },
+  "homepage": "https://github.com/Anai-Hernandez-Peralta/Practica-APIREST-JS-2#readme"
+}
